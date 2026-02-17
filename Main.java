@@ -63,6 +63,7 @@ public class Main {
             System.out.println("потребуется дней: " + day);
         }else {
             System.out.println("Доставка не осущестляется");
+            System.out.println("end");
         }
     }
 }
